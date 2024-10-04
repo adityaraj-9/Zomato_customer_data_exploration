@@ -1,13 +1,13 @@
 # Zomato_customer_data_exploration
 ## Table of Content
-- [Project Overview](Project-Overview)
-- [Data Source](Data-Source)
-- [Tools](Tools)
-- [Exploratory Data Analysis](Exploratory-Data-Analysis)
+- Project Overview
+- Data Source
+- Tools
+- Exploratory Data Analysis
 
 ## Project Overview
 
-In this project i have done data exploration using MS SQL Server on a dummy data for a food delivery company called Zomato.
+The goal of this project is to explore the transactional data of a food delivery company (like Zomato) to answer key business questions related to customer spending patterns, popular items, membership behaviors, and reward point systems. Below is a step-by-step breakdown of how I have used the SQL to do the data exploration.
 
 ## Data Source
 
@@ -90,7 +90,7 @@ select * from sales;
 - MS SQL Server - Data Exploration
 
 ## Exploratory Data Analysis
-1. [What is the total amount each customer spent on Zomato?](1.-What-is-the-total-amount-each-customer-spent-on-Zomato?)
+1. What is the total amount each customer spent on Zomato?
 2. How many days has each customer visited Zomato?
 3. What was the first product purchased by each customer?
 4. What is the most purchased item in the menu and how many times it was purchased by each customers?
