@@ -4,6 +4,7 @@
 - Data Source
 - Tools
 - Exploratory Data Analysis
+- Conclusion
 
 ## Project Overview
 
@@ -266,7 +267,9 @@ from(select s.user_id, s.created_at, cast(case when g.gold_signup_date is Null t
 ```
 ![image](https://github.com/user-attachments/assets/df9d6819-f049-4391-a79a-f618ba043c72)
 
+## Conclusion
 
+This project uses SQL to explore key business insights related to customer spending, product popularity, membership behaviors, and rewards in a food delivery platform. The queries focus on aggregating and analyzing customer and transactional data to deliver actionable insights. Through this analysis, the food delivery company can better understand customer behaviors, improve product offerings, and optimize loyalty and rewards programs.
 
 
 
