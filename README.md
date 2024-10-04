@@ -2,7 +2,7 @@
 
 In this project i have done data exploration using MS SQL Server on a dummy data for a food delivery company called Zomato.
 
-Working on the data, i have answered following questions:
+### Working on the data, i have answered following questions:
 1. What is the total amount each customer spent on Zomato?
 2. How many days has each customer visited Zomato?
 3. What was the first product purchased by each customer?
