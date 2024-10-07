@@ -1,4 +1,4 @@
-# Zomato_customer_data_exploration
+# Zomato Customer Data Exploration
 ## Table of Content
 - Project Overview
 - Data Source
