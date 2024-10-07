@@ -88,7 +88,7 @@ select * from sales;
 ![image](https://github.com/user-attachments/assets/fd4f48ec-1ca1-4880-abd7-b2b74b8b9f71)
 
 ## Tools
-- MS SQL Server - Data Exploration
+- MS SQL Server
 
 ## Exploratory Data Analysis
 1. What is the total amount each customer spent on Zomato?
