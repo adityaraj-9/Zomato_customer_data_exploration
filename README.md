@@ -1,4 +1,4 @@
-# Zomato Customer Data Exploration
+# Food Delivery platform's Customer Data Exploration
 ## Table of Content
 - Project Overview
 - Data Source
