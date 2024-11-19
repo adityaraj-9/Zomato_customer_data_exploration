@@ -1,4 +1,4 @@
-# Food Delivery platform's Customer Data Exploration
+# Food Delivery Platform's Customer Data Exploration
 ## Table of Content
 - Project Overview
 - Data Source
